@@ -351,3 +351,6 @@ MigrationBackup/
 
 
 **/dataOut/
+**/rawdata/
+**/aidata/
+**/tf_model/
